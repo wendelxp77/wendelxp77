@@ -3,7 +3,7 @@
 <h3>	👤 Um pouco sobre mim:</h3>
 
 
- - Analise e desenvolvimento de Sistemas 1/5
+ - Analise e desenvolvimento de Sistemas 2/5
 - Sou de Balsas - Maranhão;
 - Estudando Dart e Flutter;
 
